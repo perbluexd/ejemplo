@@ -19,3 +19,4 @@ for i in range(var):
         listaCiudades.append(ciudad)
 
 print(listaCiudades)
+print("todo correcto maestro")
